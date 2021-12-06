@@ -1,0 +1,216 @@
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\FPT_SE\Semester6\RE\PRN192\EXercises\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\ClosedXML.dll
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\I'mTrung\OneDrive\Desktop\PRN292_FINAL\PRN292_FINAL\bin\Debug\ClosedXML.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\ClosedXML.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\ClosedXML.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\ClosedXML.dll
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\ClosedXML.xml
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+C:\Users\PC\OneDrive\Máy tính\Newfolder (2)\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\ClosedXML.dll
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\ClosedXML.xml
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+C:\Users\PC\OneDrive\Máy tính\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\ClosedXML.dll
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\ClosedXML.xml
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+C:\Users\ADMIN\Desktop\PRN292_1\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\ClosedXML.dll
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\ClosedXML.xml
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester6\RE\PRN192\hi\hi\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\ClosedXML.dll
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\ClosedXML.xml
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\ClosedXML.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\ClosedXML.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+C:\Users\PC\OneDrive\Máy tính\New folder (4)\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\ClosedXML.dll
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\ClosedXML.xml
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester6\RE\PRN192\SE1435_Group4\download\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe.config
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\PRN292_FINAL.pdb
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\ClosedXML.dll
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\ClosedXML.xml
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csprojAssemblyReference.cache
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.Form1.resources
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.Properties.Resources.resources
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.GenerateResource.cache
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CoreCompileInputs.cache
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.csproj.CopyComplete
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.exe
+D:\FPT_SE\Semester 6\RE\PRN192\SE1435_Group4\SourceCode\PRN292_FINAL\obj\Debug\PRN292_FINAL.pdb

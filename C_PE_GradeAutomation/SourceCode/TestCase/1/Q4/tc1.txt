@@ -1,0 +1,7 @@
+INPUT:
+2
+3
+OUTPUT:
+6
+MARK:
+0,5
